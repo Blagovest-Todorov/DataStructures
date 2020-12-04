@@ -78,6 +78,9 @@ namespace _01.DataStructures
             // Queue.Count --gets teh numebr of the elements of teh Queue
 
 
+            //there is a class Queue and class Queue <T> , use class Queue<T>
+            //Queue stores the elements in FIFO style -first in first out! 
+            // it is used when you need fierst in forst out access of the info,
         }
 
     }
